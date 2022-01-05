@@ -1,6 +1,6 @@
 # [Vision UI PRO React](https://demos.creative-tim.com/vision-ui-dashboard-pro-react) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vision-ui-dashboard-pro-react&text=Check%20Vision%20UI%20Dashboard%20PRO%20React%20made%20by%20@simmmple_web%20and%20@CreativeTim%20#webdesign%20#dashboard%20#react)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vision-ui-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/vision-ui-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vision-ui-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/vision-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vision-ui-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vision-ui-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vision-ui-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vision-ui-dashboard-pro-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://i.ibb.co/bQ4zpkj/vision-ui-pro-react.png)
 
@@ -27,7 +27,7 @@ View <a href="https://demos.creative-tim.com/vision-ui-dashboard-pro-react/?ref=
 
 **HELPFUL LINKS**
 
-- View <a href="https://github.com/creativetimofficial/vision-ui-dashboard-pro-react" target="_blank">Github Repository</a>
+- View <a href="https://github.com/creativetimofficial/ct-vision-ui-dashboard-pro-react" target="_blank">Github Repository</a>
 
 - Check <a href="https://www.creative-tim.com/knowledge-center?ref=readme-vudreactpro" target="_blank">FAQ Page</a>
 
@@ -748,13 +748,13 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: <https://www.creative-tim.com/license?ref=readme-vudreactpro>
 - Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/vision-ui-dashboard/?ref=readme-vudreactpro)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-vudreactpro)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vision-ui-dashboard-pro-react/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vision-ui-dashboard-pro-react/issues)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Vision UI Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vision UI Dashbaord. Check the CHANGELOG from your dashboard on our [CHANGE LOG File](https://github.com/creativetimofficial/vision-ui-dashboard-pro-react/blob/main/CHANGELOG.md?ref=readme-vudreactpro).
+1. Make sure that you are using the latest version of the Vision UI Dashbaord. Check the CHANGELOG from your dashboard on our [CHANGE LOG File](https://github.com/creativetimofficial/ct-vision-ui-dashboard-pro-react/blob/main/CHANGELOG.md?ref=readme-vudreactpro).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
